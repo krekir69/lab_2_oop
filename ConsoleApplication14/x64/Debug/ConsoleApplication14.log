@@ -1,0 +1,10 @@
+﻿  ConsoleApplication14.cpp
+C:\Студия ++\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(51,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Студия ++\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(65,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Студия ++\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(73,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Студия ++\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(74,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Студия ++\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(91,22): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Студия ++\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(112,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Студия ++\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(119,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Студия ++\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(120,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication14.vcxproj -> C:\Студия ++\ConsoleApplication14\x64\Debug\ConsoleApplication14.exe
